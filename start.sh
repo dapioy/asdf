@@ -1,6 +1,6 @@
 #!/bin/sh
 
-PORT=52243
+PORT=53452
 UUID=e06a6c2f-b9ec-4686-9acf-e6e88471061a
 WebPage=https://bing.com
 CaddyConfig=https://raw.githubusercontent.com/dapioy/asdf/main/etc/Caddyfile
